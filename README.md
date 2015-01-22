@@ -1,4 +1,4 @@
-# What you'll find in thie repo
+# What you'll find in this repo
 This repo contains the Vagrantfile and associated scripts and configurations to bring up a VM that works for the Michael Hartl's _Ruby on Rails Tutorial, Second Edition_.
 
 # What you'll need
