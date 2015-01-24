@@ -31,4 +31,6 @@ $ . .bash_profile
 $ /vagrant/setup/install_ruby.sh
 ```
 
+*Note: You may have to manually run the commands in the install_ruby.sh script for them to work.*
+
 5) Make sure your webserver is working by visiting `http://www.rails.dev`.
